@@ -1,0 +1,2 @@
+# QuoteGenerator
+Frontend Minor Project.
